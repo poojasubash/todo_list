@@ -28,7 +28,7 @@
                             <form action="{{ route('todos.destroy', $todo->id) }}" method="POST" class="inline">
                                 @csrf
                                 @method('DELETE')
-                                <button type="submit" class="bg-red-500 text-white px-2 py-1 rounded no-underline">Delete</button>
+                                <button type="submit" class="ml-3 bg-red-500 text-white px-2 py-1 rounded no-underline">Delete</button>
                             </form>
                         </td>
                     </tr>
