@@ -1,1 +1,1 @@
-# todo_list
+Here I created a todo list using laravel and for styling i used Tailwindcss and bootstrap5. I used CRUD operations i,e user can create a new todo list , edit , update , delete and can view the todo in detailed format
